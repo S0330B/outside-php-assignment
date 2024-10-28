@@ -39,7 +39,7 @@ if ($result->num_rows > 0) {
         echo "The array is multidimensional.";
     }
 } else {
-    echo "0 results";
+    echo "0 result";
 }
 
 $conn->close();
