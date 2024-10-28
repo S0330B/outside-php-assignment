@@ -54,7 +54,7 @@
               <option value="red">Red</option>
               <option value="blue">Blue</option>
               <option value="green">Green</option>
-              <option value="other">Other</option>
+              <option value="other">Others</option>
             </select>
           </div>
           <button class="submit-btn transform" type="submit">Submit</button>
